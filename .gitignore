@@ -69,4 +69,5 @@ crashlytics-build.properties
 *.bin
 *.pyc
 *.pyd
+*.map
 
