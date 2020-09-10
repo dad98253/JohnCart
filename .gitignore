@@ -66,4 +66,6 @@ crashlytics-build.properties
 *.a
 *.lib
 *.o
+*.bin
+*.pyc
 
